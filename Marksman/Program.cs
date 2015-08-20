@@ -8,7 +8,6 @@ using LeagueSharp.Common;
 using Marksman.Champions;
 using Marksman.Utils;
 using Activator = Marksman.Utils.Activator;
-using SPrediction;
 
 #endregion
 
