@@ -10,12 +10,6 @@ using Font = SharpDX.Direct3D9.Font;
 
 #endregion
 
-    Spell.SPredictionCast(HitChance.High)
-    Spell.SPredictionCast(public static void Initialize(Menu mainMenu = null))
-    Spell.SPredictionCast(public static Vector2 GetPrediction(Obj_AI_Hero target, Spell s, List<Vector2> path, float avgt, float movt, out HitChance hc, Vector3 rangeCheckFrom))
-    Spell.SPredictionCast(public static Vector2 GetPrediction(Obj_AI_Hero target, Spell s, List<Vector2> path, float avgt, float movt, out HitChance hc, Vector3 rangeCheckFrom))
-    Spell.SPredictionCast(
-        Spell.SPredictionCast(Spell.SPredictionCast(
 namespace Marksman.Champions
 {
     internal class Ezreal : Champion
